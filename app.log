@@ -1,0 +1,23 @@
+2026-01-30 15:53:01,760 - ERROR - ZeroDivisionError occurred
+Traceback (most recent call last):
+  File "c:\Users\KIIT\OneDrive\Desktop\Elevte_Labs\Task_9\error_handling.py", line 24, in divide_numbers
+    result = a / b
+             ~~^~~
+ZeroDivisionError: division by zero
+2026-01-30 15:53:17,866 - ERROR - ZeroDivisionError occurred
+Traceback (most recent call last):
+  File "c:\Users\KIIT\OneDrive\Desktop\Elevte_Labs\Task_9\error_handling.py", line 24, in divide_numbers
+    result = a / b
+             ~~^~~
+ZeroDivisionError: division by zero
+2026-01-30 15:53:17,875 - ERROR - TypeError occurred
+Traceback (most recent call last):
+  File "c:\Users\KIIT\OneDrive\Desktop\Elevte_Labs\Task_9\error_handling.py", line 21, in divide_numbers
+    if a < 0 or b < 0:
+                ^^^^^
+TypeError: '<' not supported between instances of 'str' and 'int'
+2026-01-30 15:53:17,878 - ERROR - CustomError: Negative numbers are not allowed
+Traceback (most recent call last):
+  File "c:\Users\KIIT\OneDrive\Desktop\Elevte_Labs\Task_9\error_handling.py", line 22, in divide_numbers
+    raise NegativeNumberError("Negative numbers are not allowed")
+NegativeNumberError: Negative numbers are not allowed
