@@ -81,7 +81,7 @@ Execution completed
 ---
 
 ## Final Outcome
-✔ Intern understands exception handling  
-✔ Intern can debug using logs  
-✔ Intern writes production-ready Python code  
+Intern understands exception handling  
+Intern can debug using logs  
+Intern writes production-ready Python code  
 
